@@ -3,6 +3,12 @@
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
+
+header {
+  width: 960px;
+  margin: 0 auto;
+}
+
 body {
   padding-top: 56px;
 }
