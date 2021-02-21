@@ -4,11 +4,6 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
 
-/* header {
-  width: 960px;
-  margin: 0 auto;
-} */
-
 body {
   padding-top: 56px;
 }
@@ -27,20 +22,13 @@ body {
 }
 
 .portfolio-item {
+  width: auto;
   margin-bottom: 30px;
 }
 
-/* .col-lg-6{
-  margin: 0 auto;
-<<<<<<< HEAD
-  max-width: 200px;
-  max-height: 200px;
-} */
-=======
+.card-img-top
+{
+  height: 200px;
+  width: 200px;
 }
->>>>>>> ba75904abc0b75841ee89f07dce84105b0b739d1
 
-/* .card-title{
-  max-width: 200px;
-  max-height: 200px;
-} */
