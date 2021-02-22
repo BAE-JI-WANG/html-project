@@ -70,3 +70,8 @@ header
 {
   background-color: ivory;
 }
+
+ul
+{
+  list-style: none;
+}
