@@ -46,7 +46,7 @@ header
 
 .content
 {
-  background-color: ivory;
+  background-color: burlywood;
   font-family: sans-serif;
 }
 
@@ -57,4 +57,16 @@ header
 
 .home{
   right: 0;
+}
+
+.지도
+{
+  background-color: ivory;
+  width: 960px;
+  margin: 0 auto;
+}
+
+.object
+{
+  background-color: ivory;
 }
